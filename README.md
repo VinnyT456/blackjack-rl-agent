@@ -91,10 +91,7 @@ This will:
 ## 🧹 Customizations
 
 * **Reward shaping**: Encourages actions based on:
-
-  * Dealer bust probability
   * Player bust chance
-  * Dealer sum distribution
 * **Action heuristics**: Uses rule-based logic during early episodes
 * **Model checkpointing**: Saves best model based on highest episode reward
 
